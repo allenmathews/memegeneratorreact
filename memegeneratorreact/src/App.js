@@ -10,7 +10,7 @@ function App() {
         className = "troll-face"
         alt = "logo" />
         <p>
-        The header goes here </p> <a className = "App-link"
+        The header goes here</p> <a className = "App-link"
         href = "https://reactjs.org"
         target = "_blank"
         rel = "noopener noreferrer" >
